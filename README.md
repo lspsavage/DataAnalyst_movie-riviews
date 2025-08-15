@@ -1,8 +1,3 @@
-Berarti kamu mau README yang sudah rapi, lengkap dengan **tools, library, model prediksi, data insight, research question, kesimpulan, rekomendasi, dan AI support explanation**.
-Aku buatkan seperti ini:
-
----
-
 # 🎬 Movie Review Sentiment Analysis with IBM Granite
 
 ## 📌 Project Overview
