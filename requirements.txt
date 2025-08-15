@@ -1,0 +1,9 @@
+# requirements.txt
+replicate
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+jupyter
