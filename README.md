@@ -97,9 +97,7 @@ Dataset yang digunakan berimbang (50% positif, 50% negatif) sehingga cocok untuk
 
 ## 🤖 Model Prediksi
 
-- **IBM Granite-13b-instruct-v2** → Classification (Positive/Negative)
-- **IBM Granite-13b-chat-v2** → Summarization & Keyword Extraction
-- Evaluasi menggunakan **Accuracy, Precision, Recall, F1-score** terhadap data validasi.
+**ibm-granite/granite-3.2-8b-instruct**
 
 ---
 
@@ -111,8 +109,3 @@ AI digunakan di tahap:
 2. **Summarization** → Granite membuat ringkasan tiap review.
 3. **Keyword Extraction** → Granite mengambil kata kunci penting dari review.
 4. **Insight Generation** → Granite membuat insight otomatis dari pola data.
-
----
-
-Kalau mau, aku bisa sekalian buatkan **versi README ini dalam format markdown siap commit ke GitHub**, plus menambahkan tabel _sentiment accuracy_ hasil evaluasi model.
-Kamu mau aku lanjut buatkan versinya?
